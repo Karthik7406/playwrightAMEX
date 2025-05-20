@@ -1,0 +1,24 @@
+{
+  "name": "playwrightamex",
+  "version": "1.0.0",
+  "description": "Playwright Assignment",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthik7406/playwrightAMEX.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "karthikkumar2801@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthik7406/playwrightAMEX/issues"
+  },
+  "homepage": "https://github.com/Karthik7406/playwrightAMEX#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.19"
+  }
+}
